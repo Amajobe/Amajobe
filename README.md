@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amajobe
 - 👀 I’m interested in geophysics
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Java
 
 
 <!---
